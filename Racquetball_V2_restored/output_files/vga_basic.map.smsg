@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at i2c_touch_config.v(36): object "INT_n" differs only in case from object "int_n" in the same scope File: /u/ugrads/pcampellone/Desktop/ELE302_Labs/Racquetball_V2_restored/i2c_touch_config.v Line: 36

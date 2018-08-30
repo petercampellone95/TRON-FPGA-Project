@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Tue Apr 11 16:42:57 2017
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Standard Edition
+Revision Name : vga_basic
+Top-level Entity Name : Racquetball
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 701
+Total pins : 92
+Total virtual pins : 0
+Total block memory bits : 18,432
+Total DSP Blocks : 1
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0

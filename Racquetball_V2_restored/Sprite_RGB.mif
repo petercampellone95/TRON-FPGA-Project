@@ -1,0 +1,127 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=3;
+DEPTH=256;
+
+ADDRESS_RADIX=OCT;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	[000..101]  :   000;
+	[102..106]  :   011;
+	[107..110]  :   000;
+	111  :   011;
+	[112..113]  :   110;
+	114  :   011;
+	[115..116]  :   110;
+	117  :   011;
+	120  :   000;
+	[121..127]  :   011;
+	130  :   000;
+	[131..132]  :   011;
+	[133..135]  :   100;
+	[136..137]  :   011;
+	[140..141]  :   000;
+	[142..146]  :   011;
+	[147..151]  :   000;
+	152  :   101;
+	153  :   000;
+	154  :   010;
+	155  :   000;
+	156  :   001;
+	[157..161]  :   000;
+	162  :   101;
+	163  :   000;
+	164  :   010;
+	165  :   000;
+	166  :   001;
+	[167..171]  :   000;
+	172  :   101;
+	173  :   000;
+	174  :   010;
+	175  :   000;
+	176  :   001;
+	[177..201]  :   000;
+	[202..206]  :   011;
+	[207..210]  :   000;
+	211  :   011;
+	212  :   110;
+	[213..215]  :   011;
+	216  :   110;
+	217  :   011;
+	220  :   000;
+	[221..227]  :   011;
+	230  :   000;
+	[231..232]  :   011;
+	[233..235]  :   100;
+	[236..237]  :   011;
+	[240..241]  :   000;
+	[242..246]  :   011;
+	[247..251]  :   000;
+	252  :   101;
+	253  :   000;
+	254  :   010;
+	255  :   000;
+	256  :   001;
+	[257..261]  :   000;
+	262  :   101;
+	263  :   000;
+	264  :   010;
+	265  :   000;
+	266  :   001;
+	[267..270]  :   000;
+	271  :   101;
+	272  :   000;
+	273  :   010;
+	274  :   000;
+	275  :   001;
+	[276..301]  :   000;
+	[302..306]  :   011;
+	[307..310]  :   000;
+	311  :   011;
+	312  :   110;
+	[313..315]  :   011;
+	316  :   110;
+	317  :   011;
+	320  :   000;
+	[321..327]  :   011;
+	330  :   000;
+	[331..333]  :   011;
+	334  :   100;
+	[335..337]  :   011;
+	[340..341]  :   000;
+	[342..346]  :   011;
+	[347..351]  :   000;
+	352  :   101;
+	353  :   000;
+	354  :   010;
+	355  :   000;
+	356  :   001;
+	[357..360]  :   000;
+	361  :   101;
+	362  :   000;
+	363  :   010;
+	364  :   000;
+	365  :   001;
+	[366..367]  :   000;
+	370  :   101;
+	371  :   000;
+	372  :   010;
+	373  :   000;
+	374  :   001;
+	[375..377]  :   000;
+END;
