@@ -15,4 +15,4 @@ This project was undertaken as a final project for an EDA course in my junior ye
 
 
 
-**The main project is called Racquetball V2 because we based the initial design off of a Pong like game and it was easier to keep building upon this instead of restarting from scratch**
+*The main project is called Racquetball V2 because we based the initial design off of a Pong like game and it was easier to keep building upon this instead of restarting from scratch*
