@@ -8,9 +8,8 @@ This project was undertaken as a final project for an EDA course in my junior ye
 - Implement a function to update the pace of the game (i.e. how fast the "lightbikes" move) and a button on the screen to allow the user to toggle different speeds at will
 - Implement a function to change the AI's difficulty level based on user input corresponding to a button on the screen
 - Map an onboard toggle switch to a global reset in order to easily reset the game without power-cycling
-- Design multiple levels of AI for the computer player to implement more advanced design-making in order to make the game more difficult for the human player (see the AI_2 and AI_3 flow charts and well as some of the other resources for more detail)
+- Design multiple levels of AI for the computer player to implement more advanced design-making in order to make the game more difficult for the human player (see the AI_2 and AI_3 flow charts for more detail)
 - Design and implement a main FSM to handle the drawing of the two players, drawing of the background and border, player movement, player collision detection, and reading of the various X,Y coordinates where the on-screen options buttons were drawn (speed, difficulty)
-
 
 
 
